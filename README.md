@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabha-45&label=Profile%20views&color=0e75b6&style=flat" alt="prabha-45" /> </p>
 
-- 🔭 I’m currently working on **HTML, CSS, JavaScript**
-
-- 🌱 I’m currently learning **ReactJs**
-
+- 🔭 I’m currently working on **React.js Projects**
+- 🌱 I’m exploring **Advanced React Concepts, Redux, and API Integrations**
+- 💡 I enjoy building **dynamic, user-friendly, and responsive UIs**
 - 📫 How to reach me **pmokampalle@gmail.com**
-
-- ⚡ Fun fact **I think I am a Good Listner**
+- ⚡ Fun fact **I think I am a good listener**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
